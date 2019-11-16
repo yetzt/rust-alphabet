@@ -14,7 +14,12 @@ Download the file [alphabet.prefab](alphabet.prefab) and palce it in the `RustEd
 ![ground level view](examples/2.png)
 ![details](examples/3.png)
 
+## Contributions
+
+* [alphabet.flat.black.prefab](alphabet.flat.black.prefab) Flat black version by Brengun
+* [alphabet.flat.white.prefab](alphabet.flat.white.prefab) Flat white version by Brengun
+* [alphabet.flat.3d.prefab](alphabet.flat.3d.prefab) Flat black & white 3D version by Brengun
+
 ## License
 
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). 
-
