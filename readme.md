@@ -16,10 +16,10 @@ Download the file [alphabet.prefab](alphabet.prefab) and palce it in the `RustEd
 
 ## Contributions & Variants
 
-* [alphabet.glow.prefab](alphabet.glow.prefab) Gray, red, green and glowing yellow verion. Special thanks to [Lone](https://lone.design/) for the IO handler cube prefabs.
-* [alphabet.flat.black.prefab](alphabet.flat.black.prefab) Flat black version by Brengun
-* [alphabet.flat.white.prefab](alphabet.flat.white.prefab) Flat white version by Brengun
-* [alphabet.flat.3d.prefab](alphabet.flat.3d.prefab) Flat black & white 3D version by Brengun
+* [Gray, red, green and glowing yellow](alphabet.glow.prefab) version. Special thanks to [Lone](https://lone.design/) for the IO handler cube prefabs.
+* [Flat black](alphabet.flat.black.prefab) version by Brengun
+* [Flat white](alphabet.flat.white.prefab) version by Brengun
+* [Flat black & white 3D](alphabet.flat.3d.prefab) version by Brengun
 
 ## License
 
